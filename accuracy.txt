@@ -1,7 +1,9 @@
-submission       score
+submission       score         Accuracy	AUC	    Recall	Prec.	F1	    Kappa  MCC
 1                0.45
 2                0.54488
 3                0.64756
 4                0.64756
 5                0.54831
 6                0.64939
+7                0.64802       0.9134	0.9673	0.8941	0.9358	0.9144	0.8268	0.8278       com normalizacao e feature selection
+8
